@@ -3,7 +3,7 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css';
 import InvoiceStatus from './ui/invoices/status';
-import { lusitana, roboto } from './ui/font';
+import { lusitana, roboto } from './ui/fonts';
 import Image from 'next/image';
 
 
